@@ -251,4 +251,4 @@ One last time in action:
 
 * There is more you can do to secure your networks. [Learn how to use Wireshark](https://www.wireshark.org/#learnWS), because the bad actors already know.
 * [Get started](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-openssh) with SSH server configuration; There are [lots of resources](https://www.redhat.com/sysadmin/search/node?keys=ssh) out there.
-* Get the code from this tutorial; We managed to do a lot of work with containers, with minimum effort.
+* Get the [code from this tutorial](https://github.com/josevnz/insecure_protocol_tutorial); We managed to do a lot of work with containers, with minimum effort.
