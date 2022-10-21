@@ -194,9 +194,9 @@ Finally, time to see our last application
 
 # What do you see during a telnet session?
 
-A telnet server is one of those services that no one should see on their networks. I won't even ask you to run a container, instead I will show you how a live capture looks like (if you are curious I used the [Docker telnet server](https://github.com/Jared-Harrington-Gibbs/Docker-Files/tree/master/telnet-server) for this demo):
+A telnet server is one of those services that no one should see on their networks. I won't even ask you to run a container, instead I will show you how a live capture looks like (if you are curious I used the [Docker telnet server](https://github.com/Jared-Harrington-Gibbs/Docker-Files/tree/master/telnet-server) for this demo).
 
-Of course tshark can decode[ Telnet traffic fields](https://www.wireshark.org/docs/dfref/t/telnet.html) on real time, so let's take it for a spin:
+Of course tshark can decode[ Telnet traffic fields](https://www.wireshark.org/docs/dfref/t/telnet.html) on real time, so let's take it for a spin.
 
 ### The fix for Telnet: Switch to SSH
 
